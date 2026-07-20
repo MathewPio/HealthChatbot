@@ -55,3 +55,5 @@ def update_health_profile(
         
     db.commit()
     db.refresh(profile)
+    
+    return profile

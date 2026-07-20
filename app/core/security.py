@@ -76,6 +76,8 @@ def decode_access_token(token: str) -> dict[str, Any] | None:
             settings.SECRET_KEY,
             algorithms=[settings.ALGORITHM],
         )
+        
+        return payload
     
     except JWTError:
         return None

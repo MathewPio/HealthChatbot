@@ -9,6 +9,8 @@ from app.database.base import Base
 # Import models so Alembic can detect them.
 from app.models.user import User  # noqa: F401
 from app.models.health_profile import HealthProfile
+from app.models.chat_message import ChatMessage
+from app.models.chat_session import ChatSession
 
 config = context.config
 

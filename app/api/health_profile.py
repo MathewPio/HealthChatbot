@@ -52,5 +52,86 @@ def build_profile_response(profile):
             sleep_hours=profile.sleep_hours,
             bmi=bmi,
         )
+    
+
+@router.post(
+    "",
+    response_model=HealthProfileResponse,
+    status_code=status.HTTP_201_CREATED,
+)
+def create_my_health_profile(
+    profile_data: HealthProfileCreate,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user),
+):
+    existing_profile = get_health_profile_by_user_id(
+        db,
+        current_user.id,
+    )
+    
+    if existing_profile:
+        raise HTTPException(
+            status_code=status.HTTP_409_CONFLICT,
+            detail="Health Profile already exists",
+        )
+        
+    profile = create_health_profile(
+        db,
+        current_user.id,
+        profile_data
+    )
+    
+    return build_profile_response(profile)
+
+
+@router.get(
+    "",
+    response_model = HealthProfileResponse
+)
+def get_my_health_profile(
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user)
+):
+    profile = get_health_profile_by_user_id(
+        db,
+        current_user.id,
+    )
+    
+    if profile is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Health profile is not found.",
+        )
+        
+    return build_profile_response(profile)
+
+
+@router.patch(
+    "",
+    response_model=HealthProfileResponse,
+)
+def update_my_health_profile(
+    profile_data: HealthProfileUpdate,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user),
+):
+    profile = get_health_profile_by_user_id(
+        db,
+        current_user.id,
+    )
+    
+    if profile is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Health profile is not found"
+        )
+    
+    updated_profile = update_health_profile(
+        db,
+        profile,
+        profile_data,
+    )
+    
+    return build_profile_response(updated_profile)
 
 

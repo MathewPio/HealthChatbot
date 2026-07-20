@@ -33,7 +33,7 @@ class HealthProfileBase(BaseModel):
     
     medical_conditions: str | None = None
     
-    current_mdications: str | None = None
+    current_medications: str | None = None
     
     smoker: bool | None = None
     
