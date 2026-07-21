@@ -51,6 +51,9 @@ def build_profile_response(profile):
             exercise_frequency=profile.exercise_frequency,
             sleep_hours=profile.sleep_hours,
             bmi=bmi,
+            fitness_goal=profile.fitness_goal,
+            activity_level=profile.activity_level,
+            training_experience=profile.training_experience,
         )
     
 

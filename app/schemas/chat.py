@@ -27,6 +27,10 @@ class ChatMessageResponse(BaseModel):
     }
     
     
+class ChatExchangeResponse(BaseModel):
+    user_message: ChatMessageResponse
+    assistant_message: ChatMessageResponse
+    
 class ChatSessionResponse(BaseModel):
     id: int
     user_id: int
@@ -39,4 +43,6 @@ class ChatSessionResponse(BaseModel):
     
     
 class ChatSessionDetailResponse(ChatSessionResponse):
-    messages: list[ChatMessageResponse] = []
+    messages: list[ChatMessageResponse] = Field(
+        default_factory=list
+    )

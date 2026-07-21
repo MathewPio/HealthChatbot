@@ -53,6 +53,10 @@ class HealthProfileBase(BaseModel):
         le=24,
     )
     
+    fitness_goal: str | None = None
+    activity_level: str | None = None
+    training_experience: str | None = None
+    
     
 class HealthProfileCreate(HealthProfileBase):
     pass

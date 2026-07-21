@@ -63,3 +63,18 @@ def add_chat_message(
     db.refresh(message)
     
     return message
+
+
+def get_chat_messages(
+    db: Session,
+    session_id: int,
+) -> list[ChatMessage]:
+    
+    return (
+        db.query(ChatMessage)
+        .filter(ChatMessage.session_id == session_id)
+        .order_by(ChatMessage.created_at.asc())
+        .all()
+    )
+    
+    

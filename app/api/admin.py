@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 
 from app.api.dependencies import get_current_admin
@@ -20,3 +20,26 @@ def get_all_users(
     current_admin: User = Depends(get_current_admin),
 ):
     return db.query(User).all()
+
+
+@router.get(
+    "/users/{user_id}",
+    response_model=UserResponse,
+)
+def get_user_by_id(
+    user_id: int,
+    db: Session = Depends(get_db),
+    current_admin: User = Depends(get_current_admin),
+):
+    user = db.get(
+        User,
+        user_id,
+    )
+    
+    if user is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="User not found."
+        )
+        
+    return user

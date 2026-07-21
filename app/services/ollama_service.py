@@ -15,7 +15,7 @@ def generate_ai_response(
           "messages": messages,
           "stream": False,  
         },
-        timeout=300.0
+        timeout=600.0
     )
     
     response.raise_for_status()

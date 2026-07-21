@@ -6,9 +6,13 @@ from sqlalchemy import (
     Integer,
     String,
     Text,
-)
+) 
 
-from sqlalchemy.orm import relationship
+from sqlalchemy.orm import (
+    relationship,
+    Mapped,
+    mapped_column,    
+)
 
 from app.database.base import Base
 
@@ -96,6 +100,23 @@ class HealthProfile(Base):
         "User",
         back_populates="health_profile",
     )
+
+
+    fitness_goal: Mapped[str | None] = mapped_column(
+        String(100),
+        nullable=True,
+    )
+    
+    activity_level: Mapped[str | None] = mapped_column(
+        String(100),
+        nullable=True,
+    )
+    
+    training_experience: Mapped[str | None] = mapped_column(
+        String(100),
+        nullable=True,
+    )
+
 
 
 
