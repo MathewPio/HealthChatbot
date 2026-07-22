@@ -1,4 +1,3 @@
-import app.services.health_profile_service
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 import httpx
@@ -163,7 +162,7 @@ def send_message(
             f"Exercise frequency: {profile.exercise_frequency}\n"
             f"Sleep hours: {profile.sleep_hours}\n"
             f"Smoker: {profile.smoker}\n"
-            f"Alcohol use: {profile.alcohol_use}"
+            f"Alcohol use: {profile.alcohol_use}\n"
             f"Fitness goal: {profile.fitness_goal}\n"
             f"Activity level: {profile.activity_level}\n"
             f"Training experience: {profile.training_experience}"
@@ -181,6 +180,8 @@ def send_message(
                 "Do not diagnose medical conditions or present yourself as a doctor. "
                 "If the user describes a potentially serious medical issue, encourage them to seek "
                 "appropriate professional medical help. "
+                "If the user describes potentially life-threatening symptoms such as severe chest pain, "
+                "difficulty breathing, fainting, or signs of stroke, advise them to seek emergency medical help immediately. "
                 "Keep your advice clear, supportive, and appropriate for the user's training experience.\n\n"
                 "Here is the user's health and fitness profile:\n"
                 f"{profile_context}"

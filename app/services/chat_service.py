@@ -68,13 +68,17 @@ def add_chat_message(
 def get_chat_messages(
     db: Session,
     session_id: int,
+    limit: int = 10,
 ) -> list[ChatMessage]:
     
-    return (
+    messages = (
         db.query(ChatMessage)
         .filter(ChatMessage.session_id == session_id)
-        .order_by(ChatMessage.created_at.asc())
+        .order_by(ChatMessage.created_at.desc())
+        .limit(limit)
         .all()
     )
+    
+    return list(reversed(messages))
     
     
