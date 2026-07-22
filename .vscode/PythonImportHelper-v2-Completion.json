@@ -1,0 +1,2237 @@
+[
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database.base",
+        "description": "app.database.base",
+        "isExtraImport": true,
+        "detail": "app.database.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database.base",
+        "description": "app.database.base",
+        "isExtraImport": true,
+        "detail": "app.database.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database.base",
+        "description": "app.database.base",
+        "isExtraImport": true,
+        "detail": "app.database.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database.base",
+        "description": "app.database.base",
+        "isExtraImport": true,
+        "detail": "app.database.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database.base",
+        "description": "app.database.base",
+        "isExtraImport": true,
+        "detail": "app.database.base",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfile",
+        "importPath": "app.models.health_profile",
+        "description": "app.models.health_profile",
+        "isExtraImport": true,
+        "detail": "app.models.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfile",
+        "importPath": "app.models.health_profile",
+        "description": "app.models.health_profile",
+        "isExtraImport": true,
+        "detail": "app.models.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessage",
+        "importPath": "app.models.chat_message",
+        "description": "app.models.chat_message",
+        "isExtraImport": true,
+        "detail": "app.models.chat_message",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessage",
+        "importPath": "app.models.chat_message",
+        "description": "app.models.chat_message",
+        "isExtraImport": true,
+        "detail": "app.models.chat_message",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessage",
+        "importPath": "app.models.chat_message",
+        "description": "app.models.chat_message",
+        "isExtraImport": true,
+        "detail": "app.models.chat_message",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSession",
+        "importPath": "app.models.chat_session",
+        "description": "app.models.chat_session",
+        "isExtraImport": true,
+        "detail": "app.models.chat_session",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSession",
+        "importPath": "app.models.chat_session",
+        "description": "app.models.chat_session",
+        "isExtraImport": true,
+        "detail": "app.models.chat_session",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSession",
+        "importPath": "app.models.chat_session",
+        "description": "app.models.chat_session",
+        "isExtraImport": true,
+        "detail": "app.models.chat_session",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_admin",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.api.dependencies",
+        "description": "app.api.dependencies",
+        "isExtraImport": true,
+        "detail": "app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "AdminStatsResponse",
+        "importPath": "app.schemas.admin",
+        "description": "app.schemas.admin",
+        "isExtraImport": true,
+        "detail": "app.schemas.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserRoleUpdate",
+        "importPath": "app.schemas.admin",
+        "description": "app.schemas.admin",
+        "isExtraImport": true,
+        "detail": "app.schemas.admin",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessageCreate",
+        "importPath": "app.schemas.chat",
+        "description": "app.schemas.chat",
+        "isExtraImport": true,
+        "detail": "app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessageResponse",
+        "importPath": "app.schemas.chat",
+        "description": "app.schemas.chat",
+        "isExtraImport": true,
+        "detail": "app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSessionCreate",
+        "importPath": "app.schemas.chat",
+        "description": "app.schemas.chat",
+        "isExtraImport": true,
+        "detail": "app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSessionDetailResponse",
+        "importPath": "app.schemas.chat",
+        "description": "app.schemas.chat",
+        "isExtraImport": true,
+        "detail": "app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSessionResponse",
+        "importPath": "app.schemas.chat",
+        "description": "app.schemas.chat",
+        "isExtraImport": true,
+        "detail": "app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatExchangeResponse",
+        "importPath": "app.schemas.chat",
+        "description": "app.schemas.chat",
+        "isExtraImport": true,
+        "detail": "app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ai_response",
+        "importPath": "app.services.ollama_service",
+        "description": "app.services.ollama_service",
+        "isExtraImport": true,
+        "detail": "app.services.ollama_service",
+        "documentation": {}
+    },
+    {
+        "label": "add_chat_message",
+        "importPath": "app.services.chat_service",
+        "description": "app.services.chat_service",
+        "isExtraImport": true,
+        "detail": "app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_chat_session",
+        "importPath": "app.services.chat_service",
+        "description": "app.services.chat_service",
+        "isExtraImport": true,
+        "detail": "app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_chat_session_by_id",
+        "importPath": "app.services.chat_service",
+        "description": "app.services.chat_service",
+        "isExtraImport": true,
+        "detail": "app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_chat_sessions",
+        "importPath": "app.services.chat_service",
+        "description": "app.services.chat_service",
+        "isExtraImport": true,
+        "detail": "app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_chat_messages",
+        "importPath": "app.services.chat_service",
+        "description": "app.services.chat_service",
+        "isExtraImport": true,
+        "detail": "app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_health_profile_by_user_id",
+        "importPath": "app.services.health_profile_service",
+        "description": "app.services.health_profile_service",
+        "isExtraImport": true,
+        "detail": "app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_health_profile",
+        "importPath": "app.services.health_profile_service",
+        "description": "app.services.health_profile_service",
+        "isExtraImport": true,
+        "detail": "app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_health_profile_by_user_id",
+        "importPath": "app.services.health_profile_service",
+        "description": "app.services.health_profile_service",
+        "isExtraImport": true,
+        "detail": "app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_health_profile",
+        "importPath": "app.services.health_profile_service",
+        "description": "app.services.health_profile_service",
+        "isExtraImport": true,
+        "detail": "app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileCreate",
+        "importPath": "app.schemas.health_profile",
+        "description": "app.schemas.health_profile",
+        "isExtraImport": true,
+        "detail": "app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileResponse",
+        "importPath": "app.schemas.health_profile",
+        "description": "app.schemas.health_profile",
+        "isExtraImport": true,
+        "detail": "app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileUpdate",
+        "importPath": "app.schemas.health_profile",
+        "description": "app.schemas.health_profile",
+        "isExtraImport": true,
+        "detail": "app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileCreate",
+        "importPath": "app.schemas.health_profile",
+        "description": "app.schemas.health_profile",
+        "isExtraImport": true,
+        "detail": "app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileUpdate",
+        "importPath": "app.schemas.health_profile",
+        "description": "app.schemas.health_profile",
+        "isExtraImport": true,
+        "detail": "app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_bmi",
+        "importPath": "app.utils.health",
+        "description": "app.utils.health",
+        "isExtraImport": true,
+        "detail": "app.utils.health",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt",
+        "description": "bcrypt",
+        "detail": "bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.auth",
+        "description": "app.api.auth",
+        "isExtraImport": true,
+        "detail": "app.api.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.admin",
+        "description": "app.api.admin",
+        "isExtraImport": true,
+        "detail": "app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.health_profile",
+        "description": "app.api.health_profile",
+        "isExtraImport": true,
+        "detail": "app.api.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.chat",
+        "description": "app.api.chat",
+        "isExtraImport": true,
+        "detail": "app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.07a75a4773b7_create_chat_sessions_and_messages",
+        "description": "backend.alembic.versions.07a75a4773b7_create_chat_sessions_and_messages",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('chat_sessions',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=False),\n    sa.Column('title', sa.String(length=150), server_default='New Conversation', nullable=False),\n    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=True),\n    sa.ForeignKeyConstraint(['user_id'], ['users.id'], ondelete='CASCADE'),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "backend.alembic.versions.07a75a4773b7_create_chat_sessions_and_messages",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.07a75a4773b7_create_chat_sessions_and_messages",
+        "description": "backend.alembic.versions.07a75a4773b7_create_chat_sessions_and_messages",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_chat_messages_session_id'), table_name='chat_messages')\n    op.drop_index(op.f('ix_chat_messages_id'), table_name='chat_messages')\n    op.drop_table('chat_messages')\n    op.drop_index(op.f('ix_chat_sessions_user_id'), table_name='chat_sessions')\n    op.drop_index(op.f('ix_chat_sessions_id'), table_name='chat_sessions')\n    op.drop_table('chat_sessions')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.07a75a4773b7_create_chat_sessions_and_messages",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.76396d5ed439_create_health_profiles_table",
+        "description": "backend.alembic.versions.76396d5ed439_create_health_profiles_table",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('health_profiles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('user_id', sa.Integer(), nullable=False),\n    sa.Column('age', sa.Integer(), nullable=True),\n    sa.Column('gender', sa.String(length=20), nullable=True),\n    sa.Column('height_cm', sa.Float(), nullable=True),\n    sa.Column('weight_kg', sa.Float(), nullable=True),",
+        "detail": "backend.alembic.versions.76396d5ed439_create_health_profiles_table",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.76396d5ed439_create_health_profiles_table",
+        "description": "backend.alembic.versions.76396d5ed439_create_health_profiles_table",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_health_profiles_id'), table_name='health_profiles')\n    op.drop_table('health_profiles')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.76396d5ed439_create_health_profiles_table",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.872d039ef1a4_add_fitness_fields_to_health_profile",
+        "description": "backend.alembic.versions.872d039ef1a4_add_fitness_fields_to_health_profile",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('health_profiles', sa.Column('fitness_goal', sa.String(length=100), nullable=True))\n    op.add_column('health_profiles', sa.Column('activity_level', sa.String(length=100), nullable=True))\n    op.add_column('health_profiles', sa.Column('training_experience', sa.String(length=100), nullable=True))\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "backend.alembic.versions.872d039ef1a4_add_fitness_fields_to_health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.872d039ef1a4_add_fitness_fields_to_health_profile",
+        "description": "backend.alembic.versions.872d039ef1a4_add_fitness_fields_to_health_profile",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('health_profiles', 'training_experience')\n    op.drop_column('health_profiles', 'activity_level')\n    op.drop_column('health_profiles', 'fitness_goal')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.872d039ef1a4_add_fitness_fields_to_health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.a0ae4b6c1782_create_users_table",
+        "description": "backend.alembic.versions.a0ae4b6c1782_create_users_table",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('full_name', sa.String(length=100), nullable=False),\n    sa.Column('email', sa.String(length=100), nullable=False),\n    sa.Column('hashed_password', sa.String(length=255), nullable=False),\n    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=True),\n    sa.PrimaryKeyConstraint('id'),",
+        "detail": "backend.alembic.versions.a0ae4b6c1782_create_users_table",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.a0ae4b6c1782_create_users_table",
+        "description": "backend.alembic.versions.a0ae4b6c1782_create_users_table",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_users_id'), table_name='users')\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.a0ae4b6c1782_create_users_table",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.ce258a2f0fbd_add_role_to_users",
+        "description": "backend.alembic.versions.ce258a2f0fbd_add_role_to_users",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('users', sa.Column('role', sa.String(length=20), server_default='user', nullable=False))\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('users', 'role')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.ce258a2f0fbd_add_role_to_users",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.ce258a2f0fbd_add_role_to_users",
+        "description": "backend.alembic.versions.ce258a2f0fbd_add_role_to_users",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('users', 'role')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.ce258a2f0fbd_add_role_to_users",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Generate SQL without creating a live database connection.\"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n        compare_type=True,\n    )",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations using a live PostgreSQL connection.\"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection,",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "config = context.config\n# Supply the database URL from the .env settings.\nconfig.set_main_option(\n    \"sqlalchemy.url\",\n    settings.DATABASE_URL.replace(\"%\", \"%%\"),\n)\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\ntarget_metadata = Base.metadata\ndef run_migrations_offline() -> None:",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata\ndef run_migrations_offline() -> None:\n    \"\"\"Generate SQL without creating a live database connection.\"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n        compare_type=True,",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "kind": 2,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "def get_all_users(\n    db: Session = Depends(get_db),\n    current_admin: User = Depends(get_current_admin),\n):\n    return db.query(User).all()\n@router.get(\n    \"/users/recent\",\n    response_model=list[UserResponse],\n)\ndef get_recent_users(",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "get_recent_users",
+        "kind": 2,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "def get_recent_users(\n    db: Session = Depends(get_db),\n    current_admin: User = Depends(get_current_admin),\n): \n    return (\n        db.query(User)\n        .order_by(User.created_at.desc())\n        .limit(5)\n        .all()\n    )",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "def get_user_by_id(\n    user_id: int,\n    db: Session = Depends(get_db),\n    current_admin: User = Depends(get_current_admin),\n):\n    user = db.get(\n        User,\n        user_id,\n    )\n    if user is None:",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "get_admin_stats",
+        "kind": 2,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "def get_admin_stats(\n    db: Session = Depends(get_db),\n    current_admin: User = Depends(get_current_admin),\n):\n    total_users = db.query(User).count()\n    total_admins = (\n        db.query(User)\n        .filter(User.role == \"admin\")\n        .count()\n    )",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_role",
+        "kind": 2,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "def update_user_role(\n    user_id: int,\n    role_data: UserRoleUpdate,\n    db: Session = Depends(get_db),\n    current_admin: User = Depends(get_current_admin),\n):\n    user = db.get(\n        User,\n        user_id,\n    )",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "def delete_user(\n    user_id: int,\n    db: Session = Depends(get_db),\n    current_admin: User = Depends(get_current_admin),\n):\n    user = db.get(\n        User,\n        user_id,\n    )\n    if user is None:",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.admin",
+        "description": "backend.app.api.admin",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/admin\",\n    tags=[\"Admin\"],\n)\n@router.get(\n    \"/users\",\n    response_model = list[UserResponse],\n)\ndef get_all_users(\n    db: Session = Depends(get_db),",
+        "detail": "backend.app.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "backend.app.api.auth",
+        "description": "backend.app.api.auth",
+        "peekOfCode": "def register_user(\n    user_data: UserRegister,\n    db: Session = Depends(get_db),\n):\n    existing_user = get_user_by_email(\n        db,\n        user_data.email, \n    )\n    if existing_user:\n        raise HTTPException(",
+        "detail": "backend.app.api.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "kind": 2,
+        "importPath": "backend.app.api.auth",
+        "description": "backend.app.api.auth",
+        "peekOfCode": "def login_user(\n    form_data: OAuth2PasswordRequestForm = Depends(),\n    db: Session = Depends(get_db),\n):\n    user = authenticate_user(\n        db,\n        form_data.username,\n        form_data.password,\n    )\n    if not user:",
+        "detail": "backend.app.api.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_profile",
+        "kind": 2,
+        "importPath": "backend.app.api.auth",
+        "description": "backend.app.api.auth",
+        "peekOfCode": "def get_my_profile(\n    current_user: User = Depends(get_current_user),\n):\n    return current_user",
+        "detail": "backend.app.api.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.auth",
+        "description": "backend.app.api.auth",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/auth\",\n    tags=[\"Authentication\"],\n)\n@router.post(\n    \"/register\",\n    response_model=UserResponse,\n    status_code=status.HTTP_201_CREATED,\n)\ndef register_user(",
+        "detail": "backend.app.api.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_session",
+        "kind": 2,
+        "importPath": "backend.app.api.chat",
+        "description": "backend.app.api.chat",
+        "peekOfCode": "def create_session(\n    session_data: ChatSessionCreate,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    return create_chat_session(\n        db,\n        current_user.id,\n        session_data.title,\n    )",
+        "detail": "backend.app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "list_my_chatsessions",
+        "kind": 2,
+        "importPath": "backend.app.api.chat",
+        "description": "backend.app.api.chat",
+        "peekOfCode": "def list_my_chatsessions(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n): \n    return get_user_chat_sessions(\n        db,\n        current_user.id,\n    )\n@router.get(\n    \"/{session_id}\",",
+        "detail": "backend.app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_chat_session",
+        "kind": 2,
+        "importPath": "backend.app.api.chat",
+        "description": "backend.app.api.chat",
+        "peekOfCode": "def get_my_chat_session(\n    session_id: int,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    session = get_chat_session_by_id(\n        db,\n        session_id,\n    )\n    if session is None:",
+        "detail": "backend.app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "send_message",
+        "kind": 2,
+        "importPath": "backend.app.api.chat",
+        "description": "backend.app.api.chat",
+        "peekOfCode": "def send_message(\n    session_id: int,\n    message_data: ChatMessageCreate,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    # Find the chat session\n    session = get_chat_session_by_id(\n        db,\n        session_id,",
+        "detail": "backend.app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.chat",
+        "description": "backend.app.api.chat",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/chats\",\n    tags=[\"Chats\"],\n)\n@router.post(\n    \"\",\n    response_model = ChatSessionResponse,\n    status_code=status.HTTP_201_CREATED,\n)\ndef create_session(",
+        "detail": "backend.app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "backend.app.api.dependencies",
+        "description": "backend.app.api.dependencies",
+        "peekOfCode": "def get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db),\n) -> User:\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials.\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    payload = decode_access_token(token)",
+        "detail": "backend.app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_admin",
+        "kind": 2,
+        "importPath": "backend.app.api.dependencies",
+        "description": "backend.app.api.dependencies",
+        "peekOfCode": "def get_current_admin(\n    current_user: User = Depends(get_current_user),\n) -> User:\n    if current_user.role != \"admin\":\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Administrator access required\"\n        )\n    return current_user",
+        "detail": "backend.app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.app.api.dependencies",
+        "description": "backend.app.api.dependencies",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(\n    tokenUrl=\"/auth/login\"\n)\ndef get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db),\n) -> User:\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials.\",",
+        "detail": "backend.app.api.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "build_profile_response",
+        "kind": 2,
+        "importPath": "backend.app.api.health_profile",
+        "description": "backend.app.api.health_profile",
+        "peekOfCode": "def build_profile_response(profile):\n    bmi = calculate_bmi(\n        profile.weight_kg,\n        profile.height_cm,\n    )\n    return HealthProfileResponse(\n            id=profile.id,\n            user_id=profile.user_id,\n            age=profile.age,\n            gender=profile.gender,",
+        "detail": "backend.app.api.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "create_my_health_profile",
+        "kind": 2,
+        "importPath": "backend.app.api.health_profile",
+        "description": "backend.app.api.health_profile",
+        "peekOfCode": "def create_my_health_profile(\n    profile_data: HealthProfileCreate,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    existing_profile = get_health_profile_by_user_id(\n        db,\n        current_user.id,\n    )\n    if existing_profile:",
+        "detail": "backend.app.api.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_health_profile",
+        "kind": 2,
+        "importPath": "backend.app.api.health_profile",
+        "description": "backend.app.api.health_profile",
+        "peekOfCode": "def get_my_health_profile(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user)\n):\n    profile = get_health_profile_by_user_id(\n        db,\n        current_user.id,\n    )\n    if profile is None:\n        raise HTTPException(",
+        "detail": "backend.app.api.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "update_my_health_profile",
+        "kind": 2,
+        "importPath": "backend.app.api.health_profile",
+        "description": "backend.app.api.health_profile",
+        "peekOfCode": "def update_my_health_profile(\n    profile_data: HealthProfileUpdate,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    profile = get_health_profile_by_user_id(\n        db,\n        current_user.id,\n    )\n    if profile is None:",
+        "detail": "backend.app.api.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.health_profile",
+        "description": "backend.app.api.health_profile",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/health-profile\",\n    tags=[\"Health Profile\"]\n)\ndef build_profile_response(profile):\n    bmi = calculate_bmi(\n        profile.weight_kg,\n        profile.height_cm,\n    )\n    return HealthProfileResponse(",
+        "detail": "backend.app.api.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    DATABASE_URL: str\n    SECRET_KEY: str\n    ALGORITHM: str\n    ACCESS_TOKEN_EXPIRE_MINUTES: int\n    model_config = SettingsConfigDict(\n        env_file=\".env\",\n        extra=\"ignore\"\n    )\nsettings = Settings()",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    password_bytes = password.encode(\"utf-8\")\n    if len(password_bytes) > 72:\n        raise ValueError(\"Password must not exceed 72 bytes.\")\n    salt = bcrypt.gensalt()\n    hashed_password = bcrypt.hashpw(password_bytes, salt)\n    # Return hashed password\n    return hashed_password.decode(\"utf-8\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    try:",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    try:\n        return bcrypt.checkpw(\n            plain_password.encode(\"utf-8\"),\n            hashed_password.encode(\"utf-8\"),\n        )\n    except (ValueError, TypeError):\n        return False\ndef create_access_token(\n    subject: str | int,",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def create_access_token(\n    subject: str | int,\n    expires_delta: timedelta | None = None,\n    additional_claims: dict[str, Any] | None = None,\n) -> str:\n    # Create a signed jwt token\n    if expires_delta is None:\n        expires_delta = timedelta(\n            minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES\n        )",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def decode_access_token(token: str) -> dict[str, Any] | None:\n    try: \n        payload =jwt.decode(\n            token,\n            settings.SECRET_KEY,\n            algorithms=[settings.ALGORITHM],\n        )\n        return payload\n    except JWTError:\n        return None",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "backend.app.database.base",
+        "description": "backend.app.database.base",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass",
+        "detail": "backend.app.database.base",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.app.database.connection",
+        "description": "backend.app.database.connection",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.app.database.connection",
+        "description": "backend.app.database.connection",
+        "peekOfCode": "engine = create_engine(\n    settings.DATABASE_URL,\n    echo=True\n)\nSessionLocal = sessionmaker(\n    autocommit=False,\n    autoflush=False,\n    bind=engine\n)\ndef get_db():",
+        "detail": "backend.app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.app.database.connection",
+        "description": "backend.app.database.connection",
+        "peekOfCode": "SessionLocal = sessionmaker(\n    autocommit=False,\n    autoflush=False,\n    bind=engine\n)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:",
+        "detail": "backend.app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessage",
+        "kind": 6,
+        "importPath": "backend.app.models.chat_message",
+        "description": "backend.app.models.chat_message",
+        "peekOfCode": "class ChatMessage(Base):\n    __tablename__ = \"chat_messages\"\n    id = Column(\n        Integer,\n        primary_key=True,\n        index=True,\n    )\n    session_id = Column(\n        Integer,\n        ForeignKey(",
+        "detail": "backend.app.models.chat_message",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSession",
+        "kind": 6,
+        "importPath": "backend.app.models.chat_session",
+        "description": "backend.app.models.chat_session",
+        "peekOfCode": "class ChatSession(Base):\n    __tablename__ = \"chat_sessions\"\n    id = Column(\n        Integer,\n        primary_key=True,\n        index=True,\n    )\n    user_id = Column(\n        Integer,\n        ForeignKey(",
+        "detail": "backend.app.models.chat_session",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfile",
+        "kind": 6,
+        "importPath": "backend.app.models.health_profile",
+        "description": "backend.app.models.health_profile",
+        "peekOfCode": "class HealthProfile(Base):\n    __tablename__=\"health_profiles\"\n    id = Column(\n        Integer,\n        primary_key=True,\n        index=True,\n    )\n    user_id = Column(\n        Integer,\n        ForeignKey(",
+        "detail": "backend.app.models.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.app.models.user",
+        "description": "backend.app.models.user",
+        "peekOfCode": "class User(Base):\n    __tablename__=\"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    full_name = Column(String(100), nullable=False)\n    email = Column(String(100), unique=True, nullable=False)\n    hashed_password = Column(String(255), nullable=False)\n    role = Column(\n        String(20),\n        nullable=False,\n        default=\"user\",",
+        "detail": "backend.app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "AdminStatsResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.admin",
+        "description": "backend.app.schemas.admin",
+        "peekOfCode": "class AdminStatsResponse(BaseModel):\n    total_users: int\n    total_admins: int\n    total_regular_users: int\n    total_chat_sessions: int\n    total_messages: int\nclass UserRoleUpdate(BaseModel):\n    role: str",
+        "detail": "backend.app.schemas.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserRoleUpdate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.admin",
+        "description": "backend.app.schemas.admin",
+        "peekOfCode": "class UserRoleUpdate(BaseModel):\n    role: str",
+        "detail": "backend.app.schemas.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class UserRegister(BaseModel):\n    full_name: str = Field(min_length=3, max_length=100)\n    email: EmailStr\n    password: str = Field(min_length=8, max_length=50)\nclass UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserResponse(BaseModel):\n    id: int\n    full_name: str",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserResponse(BaseModel):\n    id: int\n    full_name: str\n    email: EmailStr\n    role: str\n    model_config = {\n        \"from_attributes\": True",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    full_name: str\n    email: EmailStr\n    role: str\n    model_config = {\n        \"from_attributes\": True\n    }\nclass TokenResponse(BaseModel):\n    access_token: str",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    access_token: str\n    token_type: str = \"bearer\"\nclass TokenPayLoad(BaseModel):\n    sub: str",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayLoad",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class TokenPayLoad(BaseModel):\n    sub: str",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSessionCreate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.chat",
+        "description": "backend.app.schemas.chat",
+        "peekOfCode": "class ChatSessionCreate(BaseModel):\n    title:str = Field(\n        default=\"New Conversation\",\n        min_length=1,\n        max_length=150,\n    )\nclass ChatMessageCreate(BaseModel):\n    content: str = Field(\n        min_length=1,\n        max_length=5000,",
+        "detail": "backend.app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessageCreate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.chat",
+        "description": "backend.app.schemas.chat",
+        "peekOfCode": "class ChatMessageCreate(BaseModel):\n    content: str = Field(\n        min_length=1,\n        max_length=5000,\n    )\nclass ChatMessageResponse(BaseModel):\n    id: int\n    session_id: int\n    role: str\n    content: str",
+        "detail": "backend.app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessageResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.chat",
+        "description": "backend.app.schemas.chat",
+        "peekOfCode": "class ChatMessageResponse(BaseModel):\n    id: int\n    session_id: int\n    role: str\n    content: str\n    created_at: datetime\n    model_config = {\n        \"from_attributes\": True\n    }\nclass ChatExchangeResponse(BaseModel):",
+        "detail": "backend.app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatExchangeResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.chat",
+        "description": "backend.app.schemas.chat",
+        "peekOfCode": "class ChatExchangeResponse(BaseModel):\n    user_message: ChatMessageResponse\n    assistant_message: ChatMessageResponse\nclass ChatSessionResponse(BaseModel):\n    id: int\n    user_id: int\n    title: str\n    created_at: datetime\n    model_config = {\n        \"from_attributes\": True",
+        "detail": "backend.app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSessionResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.chat",
+        "description": "backend.app.schemas.chat",
+        "peekOfCode": "class ChatSessionResponse(BaseModel):\n    id: int\n    user_id: int\n    title: str\n    created_at: datetime\n    model_config = {\n        \"from_attributes\": True\n    }\nclass ChatSessionDetailResponse(ChatSessionResponse):\n    messages: list[ChatMessageResponse] = Field(",
+        "detail": "backend.app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "ChatSessionDetailResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.chat",
+        "description": "backend.app.schemas.chat",
+        "peekOfCode": "class ChatSessionDetailResponse(ChatSessionResponse):\n    messages: list[ChatMessageResponse] = Field(\n        default_factory=list\n    )",
+        "detail": "backend.app.schemas.chat",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileBase",
+        "kind": 6,
+        "importPath": "backend.app.schemas.health_profile",
+        "description": "backend.app.schemas.health_profile",
+        "peekOfCode": "class HealthProfileBase(BaseModel):\n    age: int | None = Field(\n        default=None,\n        ge=0,\n        le=120,\n    )\n    gender: str | None = Field(\n        default=None,\n        max_length=20\n    )",
+        "detail": "backend.app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileCreate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.health_profile",
+        "description": "backend.app.schemas.health_profile",
+        "peekOfCode": "class HealthProfileCreate(HealthProfileBase):\n    pass\nclass HealthProfileUpdate(HealthProfileBase):\n    pass\nclass HealthProfileResponse(HealthProfileBase):\n    id: int\n    user_id: int\n    bmi: float | None = None\n    model_config = {\n        \"from_attributes\": True",
+        "detail": "backend.app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileUpdate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.health_profile",
+        "description": "backend.app.schemas.health_profile",
+        "peekOfCode": "class HealthProfileUpdate(HealthProfileBase):\n    pass\nclass HealthProfileResponse(HealthProfileBase):\n    id: int\n    user_id: int\n    bmi: float | None = None\n    model_config = {\n        \"from_attributes\": True\n    }",
+        "detail": "backend.app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "HealthProfileResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.health_profile",
+        "description": "backend.app.schemas.health_profile",
+        "peekOfCode": "class HealthProfileResponse(HealthProfileBase):\n    id: int\n    user_id: int\n    bmi: float | None = None\n    model_config = {\n        \"from_attributes\": True\n    }",
+        "detail": "backend.app.schemas.health_profile",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "kind": 2,
+        "importPath": "backend.app.services.auth_service",
+        "description": "backend.app.services.auth_service",
+        "peekOfCode": "def get_user_by_email(db: Session, email: str) -> User | None:\n    return (\n        db.query(User)\n        .filter(User.email == email)\n        .first()\n    )\ndef create_user(\n    db: Session,\n    user_data: UserRegister,\n) -> User:",
+        "detail": "backend.app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "backend.app.services.auth_service",
+        "description": "backend.app.services.auth_service",
+        "peekOfCode": "def create_user(\n    db: Session,\n    user_data: UserRegister,\n) -> User:\n    hashed_password = hash_password(user_data.password)\n    new_user = User(\n        full_name = user_data.full_name,\n        email=user_data.email,\n        hashed_password = hashed_password,\n    )",
+        "detail": "backend.app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "backend.app.services.auth_service",
+        "description": "backend.app.services.auth_service",
+        "peekOfCode": "def authenticate_user(\n    db: Session,\n    email: str,\n    password: str\n):\n    user = get_user_by_email(db, email)\n    if not user:\n        return None\n    if not verify_password(\n        password,",
+        "detail": "backend.app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_chat_session",
+        "kind": 2,
+        "importPath": "backend.app.services.chat_service",
+        "description": "backend.app.services.chat_service",
+        "peekOfCode": "def create_chat_session(\n    db: Session,\n    user_id: int,\n    title: str,\n) -> ChatSession:\n    session = ChatSession(\n        user_id = user_id,\n        title=title,\n    )\n    db.add(session)",
+        "detail": "backend.app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_chat_sessions",
+        "kind": 2,
+        "importPath": "backend.app.services.chat_service",
+        "description": "backend.app.services.chat_service",
+        "peekOfCode": "def get_user_chat_sessions(\n    db: Session,\n    user_id: int,\n) -> list[ChatSession]:\n    return (\n        db.query(ChatSession)\n        .filter(ChatSession.user_id == user_id)\n        .order_by(ChatSession.created_at.desc())\n        .all()\n    )",
+        "detail": "backend.app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_chat_session_by_id",
+        "kind": 2,
+        "importPath": "backend.app.services.chat_service",
+        "description": "backend.app.services.chat_service",
+        "peekOfCode": "def get_chat_session_by_id(\n    db: Session,\n    session_id: int,\n) -> ChatSession | None:\n    return db.get(\n        ChatSession,\n        session_id,\n    )\ndef add_chat_message(\n    db: Session,",
+        "detail": "backend.app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "add_chat_message",
+        "kind": 2,
+        "importPath": "backend.app.services.chat_service",
+        "description": "backend.app.services.chat_service",
+        "peekOfCode": "def add_chat_message(\n    db: Session,\n    session_id: int,\n    role: str,\n    content: str,\n) -> ChatMessage:\n    message = ChatMessage(\n        session_id = session_id,\n        role = role,\n        content = content,",
+        "detail": "backend.app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_chat_messages",
+        "kind": 2,
+        "importPath": "backend.app.services.chat_service",
+        "description": "backend.app.services.chat_service",
+        "peekOfCode": "def get_chat_messages(\n    db: Session,\n    session_id: int,\n    limit: int = 10,\n) -> list[ChatMessage]:\n    messages = (\n        db.query(ChatMessage)\n        .filter(ChatMessage.session_id == session_id)\n        .order_by(ChatMessage.created_at.desc())\n        .limit(limit)",
+        "detail": "backend.app.services.chat_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_health_profile_by_user_id",
+        "kind": 2,
+        "importPath": "backend.app.services.health_profile_service",
+        "description": "backend.app.services.health_profile_service",
+        "peekOfCode": "def get_health_profile_by_user_id(\n    db: Session,\n    user_id: int,\n) -> HealthProfile | None:\n    return (\n        db.query(HealthProfile)\n        .filter(HealthProfile.user_id == user_id)\n        .first()\n    )\ndef create_health_profile(",
+        "detail": "backend.app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_health_profile",
+        "kind": 2,
+        "importPath": "backend.app.services.health_profile_service",
+        "description": "backend.app.services.health_profile_service",
+        "peekOfCode": "def create_health_profile(\n    db: Session,\n    user_id: int,\n    profile_data: HealthProfileCreate,\n) -> HealthProfile:\n    profile = HealthProfile(\n        user_id=user_id,\n        **profile_data.model_dump(),\n    )\n    db.add(profile)",
+        "detail": "backend.app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_health_profile",
+        "kind": 2,
+        "importPath": "backend.app.services.health_profile_service",
+        "description": "backend.app.services.health_profile_service",
+        "peekOfCode": "def update_health_profile(\n    db: Session,\n    profile: HealthProfile,\n    profile_data: HealthProfileUpdate,\n) -> HealthProfile:\n    update_data = profile_data.model_dump(\n        exclude_unset=True\n    )\n    for field, value in update_data.items():\n        setattr(",
+        "detail": "backend.app.services.health_profile_service",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ai_response",
+        "kind": 2,
+        "importPath": "backend.app.services.ollama_service",
+        "description": "backend.app.services.ollama_service",
+        "peekOfCode": "def generate_ai_response(\n    messages: list[dict],\n) -> str:\n    response = httpx.post(\n        OLLAMA_URL,\n        json={\n          \"model\": OLLAMA_MODEL,\n          \"messages\": messages,\n          \"stream\": False,  \n        },",
+        "detail": "backend.app.services.ollama_service",
+        "documentation": {}
+    },
+    {
+        "label": "OLLAMA_URL",
+        "kind": 5,
+        "importPath": "backend.app.services.ollama_service",
+        "description": "backend.app.services.ollama_service",
+        "peekOfCode": "OLLAMA_URL = \"http://localhost:11434/api/chat\"\nOLLAMA_MODEL = \"llama3.2:3b\"\ndef generate_ai_response(\n    messages: list[dict],\n) -> str:\n    response = httpx.post(\n        OLLAMA_URL,\n        json={\n          \"model\": OLLAMA_MODEL,\n          \"messages\": messages,",
+        "detail": "backend.app.services.ollama_service",
+        "documentation": {}
+    },
+    {
+        "label": "OLLAMA_MODEL",
+        "kind": 5,
+        "importPath": "backend.app.services.ollama_service",
+        "description": "backend.app.services.ollama_service",
+        "peekOfCode": "OLLAMA_MODEL = \"llama3.2:3b\"\ndef generate_ai_response(\n    messages: list[dict],\n) -> str:\n    response = httpx.post(\n        OLLAMA_URL,\n        json={\n          \"model\": OLLAMA_MODEL,\n          \"messages\": messages,\n          \"stream\": False,  ",
+        "detail": "backend.app.services.ollama_service",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_bmi",
+        "kind": 2,
+        "importPath": "backend.app.utils.health",
+        "description": "backend.app.utils.health",
+        "peekOfCode": "def calculate_bmi(\n    weight_kg: float | None,\n    height_cm: float | None,\n) -> float | None:\n    if weight_kg is None or height_cm is None:\n        return None\n    if height_cm <+ 0:\n        return None\n    height_m = height_cm / 100\n    bmi = weight_kg / (height_m ** 2)",
+        "detail": "backend.app.utils.health",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "def root():\n    return {\n        \"message\": \"Welcome to the Health Chatbot API\"\n    }",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = FastAPI(\n    title = \"Health Chatbot API\",\n    version=\"1.0.0\",\n    description=\"Backend API for the Health Chatbot Final Year Project\"\n)\napp.include_router(auth_router)\napp.include_router(admin_router)\napp.include_router(health_profile_router)\napp.include_router(chat_router)\n@app.get(\"/\")",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "plain_password",
+        "kind": 5,
+        "importPath": "backend.test_security",
+        "description": "backend.test_security",
+        "peekOfCode": "plain_password = \"HealthChatbot123\"\nhashed_password = hash_password(plain_password)\nprint(\"Generated hash:\", hashed_password)\nprint(\n    \"Correct password:\",\n    verify_password(plain_password, hashed_password),\n)\nprint(\n    \"Incorrect password:\",\n    verify_password(\"WrongPassword\", hashed_password),",
+        "detail": "backend.test_security",
+        "documentation": {}
+    },
+    {
+        "label": "hashed_password",
+        "kind": 5,
+        "importPath": "backend.test_security",
+        "description": "backend.test_security",
+        "peekOfCode": "hashed_password = hash_password(plain_password)\nprint(\"Generated hash:\", hashed_password)\nprint(\n    \"Correct password:\",\n    verify_password(plain_password, hashed_password),\n)\nprint(\n    \"Incorrect password:\",\n    verify_password(\"WrongPassword\", hashed_password),\n)",
+        "detail": "backend.test_security",
+        "documentation": {}
+    }
+]
