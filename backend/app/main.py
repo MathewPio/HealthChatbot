@@ -5,11 +5,22 @@ from app.api.health_profile import (
     router as health_profile_router
 )
 from app.api.chat import router as chat_router
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
     title = "Health Chatbot API",
     version="1.0.0",
     description="Backend API for the Health Chatbot Final Year Project"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(auth_router)

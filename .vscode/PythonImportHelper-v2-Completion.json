@@ -1033,22 +1033,6 @@
         "documentation": {}
     },
     {
-        "label": "hash_password",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
-        "label": "verify_password",
-        "importPath": "app.core.security",
-        "description": "app.core.security",
-        "isExtraImport": true,
-        "detail": "app.core.security",
-        "documentation": {}
-    },
-    {
         "label": "OAuth2PasswordRequestForm",
         "importPath": "fastapi.security",
         "description": "fastapi.security",
@@ -1440,6 +1424,23 @@
         "description": "app.api.chat",
         "isExtraImport": true,
         "detail": "app.api.chat",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
         "documentation": {}
     },
     {
@@ -2212,26 +2213,44 @@
         "kind": 5,
         "importPath": "backend.app.main",
         "description": "backend.app.main",
-        "peekOfCode": "app = FastAPI(\n    title = \"Health Chatbot API\",\n    version=\"1.0.0\",\n    description=\"Backend API for the Health Chatbot Final Year Project\"\n)\napp.include_router(auth_router)\napp.include_router(admin_router)\napp.include_router(health_profile_router)\napp.include_router(chat_router)\n@app.get(\"/\")",
+        "peekOfCode": "app = FastAPI(\n    title = \"Health Chatbot API\",\n    version=\"1.0.0\",\n    description=\"Backend API for the Health Chatbot Final Year Project\"\n)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\n        \"http://localhost:5173\",\n    ],",
         "detail": "backend.app.main",
         "documentation": {}
     },
     {
-        "label": "plain_password",
-        "kind": 5,
-        "importPath": "backend.test_security",
-        "description": "backend.test_security",
-        "peekOfCode": "plain_password = \"HealthChatbot123\"\nhashed_password = hash_password(plain_password)\nprint(\"Generated hash:\", hashed_password)\nprint(\n    \"Correct password:\",\n    verify_password(plain_password, hashed_password),\n)\nprint(\n    \"Incorrect password:\",\n    verify_password(\"WrongPassword\", hashed_password),",
-        "detail": "backend.test_security",
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    for i in range(len(value)):\n        yield i",
+        "detail": "frontend.node_modules.flatted.python.flatted",
         "documentation": {}
     },
     {
-        "label": "hashed_password",
-        "kind": 5,
-        "importPath": "backend.test_security",
-        "description": "backend.test_security",
-        "peekOfCode": "hashed_password = hash_password(plain_password)\nprint(\"Generated hash:\", hashed_password)\nprint(\n    \"Correct password:\",\n    verify_password(plain_password, hashed_password),\n)\nprint(\n    \"Incorrect password:\",\n    verify_password(\"WrongPassword\", hashed_password),\n)",
-        "detail": "backend.test_security",
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    for i in range(len(value)):\n        yield i\ndef _object_keys(value):\n    for key in value:\n        yield key\ndef _is_array(value):",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
         "documentation": {}
     }
 ]
